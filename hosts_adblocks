@@ -2792,30 +2792,30 @@ ff02::3 ip6-allhosts
 # may provide you with services you like.
 
 #
-#0.0.0.0 auto.search.msn.com  # Microsoft uses this server to redirect
+0.0.0.0 auto.search.msn.com  # Microsoft uses this server to redirect
                                 # mistyped URLs to search engines. They
                                 # log all such errors.
-#0.0.0.0 sitefinder.verisign.com	# Verisign has joined the game 
-#0.0.0.0 sitefinder-idn.verisign.com	# of trying to hijack mistyped
+0.0.0.0 sitefinder.verisign.com	# Verisign has joined the game 
+0.0.0.0 sitefinder-idn.verisign.com	# of trying to hijack mistyped
 					# URLs to their site. 
 					# May break iOS Game Center.
 
-#0.0.0.0 s0.2mdn.net		# This may interfere with some streaming 
+0.0.0.0 s0.2mdn.net		# This may interfere with some streaming 
 				# video on sites such as cbc.ca
-#0.0.0.0 ad.doubleclick.net   # This may interefere with www.sears.com
+0.0.0.0 ad.doubleclick.net   # This may interefere with www.sears.com
 				# and potentially other sites. 
 0.0.0.0 media.fastclick.net  # Likewise, this may interfere with some
 0.0.0.0 cdn.fastclick.net  # sites.
-#0.0.0.0 ebay.doubleclick.net		# may interfere with ebay
-#0.0.0.0 google-analytics.com			# breaks some sites
-#0.0.0.0 ssl.google-analytics.com
-#0.0.0.0 www.google-analytics.l.google.com
-#0.0.0.0 stat.livejournal.com		# There are reports that this may mess 
+0.0.0.0 ebay.doubleclick.net		# may interfere with ebay
+0.0.0.0 google-analytics.com			# breaks some sites
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.l.google.com
+0.0.0.0 stat.livejournal.com		# There are reports that this may mess 
  					# up CSS on livejournal
-#0.0.0.0 stats.surfaid.ihost.com	# This has been known cause 
+0.0.0.0 stats.surfaid.ihost.com	# This has been known cause 
 					# problems with NPR.org
-#0.0.0.0 www.google-analytics.com		# breaks some sites
-#0.0.0.0 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
+0.0.0.0 www.google-analytics.com		# breaks some sites
+0.0.0.0 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
 #
 
 0.0.0.0 006.free-counter.co.uk
@@ -3000,7 +3000,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cig-arrete.com
 0.0.0.0 ci-mpsnare.iesnare.com
 0.0.0.0 ci-mpsnare.iesnare.co.uk
-#0.0.0.0 ci-mpsnare.iovation.com	# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
+0.0.0.0 ci-mpsnare.iovation.com	# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 0.0.0.0 ci-snare.iovation.com
 0.0.0.0 citrix.tradedoubler.com
 0.0.0.0 cjt1.net
@@ -3469,7 +3469,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 link.masterstats.com
 0.0.0.0 linktrack.bravenet.com
 0.0.0.0 livestats.atlanta-airport.com
-#0.0.0.0 ll.a.hulu.com	# Uncomment to block Hulu.
+0.0.0.0 ll.a.hulu.com	# Uncomment to block Hulu.
 0.0.0.0 loadus.exelator.com
 0.0.0.0 loc1.hitsprocessor.com
 0.0.0.0 lockerdome.com
@@ -3581,7 +3581,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.thefrisky.com
 0.0.0.0 metrics.thenation.com
 0.0.0.0 metrics.theweathernetwork.com
-#0.0.0.0 metrics.ticketmaster.com	# interferes with logging in to ticketmaster.com
+0.0.0.0 metrics.ticketmaster.com	# interferes with logging in to ticketmaster.com
 0.0.0.0 metrics.tmz.com
 0.0.0.0 metrics.toyota.com
 0.0.0.0 metrics.tulsaworld.com
@@ -3621,7 +3621,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nexttrk.com
 0.0.0.0 nht-2.extreme-dm.com
 0.0.0.0 nl.nedstatbasic.net
-#0.0.0.0 nl.sitestat.com	# may interfere with duo.nl
+0.0.0.0 nl.sitestat.com	# may interfere with duo.nl
 0.0.0.0 noticias.life
 0.0.0.0 notify1.brucelead.com
 0.0.0.0 o.addthis.com
@@ -3673,7 +3673,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 p.reuters.com
 0.0.0.0 printmail.biz
 0.0.0.0 prof.estat.com
-#0.0.0.0 pro.hit.gemius.pl	# May interfere with some video sites
+0.0.0.0 pro.hit.gemius.pl	# May interfere with some video sites
 0.0.0.0 proxycfg.marketscore.com
 0.0.0.0 proxy.ia2.marketscore.com
 0.0.0.0 proxy.ia3.marketscore.com
@@ -3810,7 +3810,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 server9.opentracker.net
 0.0.0.0 service.bfast.com
 0.0.0.0 service.maxymiser.net
-#0.0.0.0 services.krxd.net
+0.0.0.0 services.krxd.net
 0.0.0.0 se.sitestat.com
 0.0.0.0 sexcounter.com
 0.0.0.0 seznam.hit.gemius.pl
@@ -3906,7 +3906,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.cafepress.com
 0.0.0.0 stats.canalblog.com
 0.0.0.0 stats.cartoonnetwork.com
-#0.0.0.0 stats.channel4.com
+0.0.0.0 stats.channel4.com
 0.0.0.0 stats.clickability.com
 0.0.0.0 stats.concierge.com
 0.0.0.0 stats.cts-bv.nl
@@ -3981,7 +3981,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sync.clickonometrics.pl
 0.0.0.0 s.youtube.com  # Blocking this will interfere with video watching history
 0.0.0.0 systweak.com
-#0.0.0.0 t2.hulu.com		# Uncomment to block Hulu.
+0.0.0.0 t2.hulu.com		# Uncomment to block Hulu.
 0.0.0.0 tag.crsspxl.com
 0.0.0.0 tagging.outrider.com
 0.0.0.0 tags.bkrtx.com
@@ -4065,7 +4065,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.grmtracking.com
 0.0.0.0 track.homestead.com
 0.0.0.0 track.hotdrugsstore.in
-#0.0.0.0 track.hulu.com	# Uncomment to block Hulu.
+0.0.0.0 track.hulu.com	# Uncomment to block Hulu.
 0.0.0.0 track.india-marketing.in
 0.0.0.0 tracking.10e20.com
 0.0.0.0 tracking.3com.com
@@ -4370,7 +4370,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 webhit.afterposten.no
 0.0.0.0 webmasterkai.sitetracker.com
 0.0.0.0 webpdp.gator.com
-#0.0.0.0 webstat.channel4.com
+0.0.0.0 webstat.channel4.com
 0.0.0.0 webtrends.telenet.be
 0.0.0.0 webtrends.thisis.co.uk
 0.0.0.0 webtrends.townhall.com
@@ -4467,7 +4467,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.fxcounters.com
 0.0.0.0 www.gator.com
 0.0.0.0 www.googkle.com
-#0.0.0.0 www.googletagservices.com		#interferes with techrepublic
+0.0.0.0 www.googletagservices.com		#interferes with techrepublic
 0.0.0.0 www.hitstats.co.uk
 0.0.0.0 www.iccee.com
 0.0.0.0 www.iesnare.com  # See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
@@ -5928,7 +5928,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 optimize.doubleclick.net
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pagead.l.doubleclick.net
-#0.0.0.0 pubads.g.doubleclick.net	#interferes with video on cwtv.com
+0.0.0.0 pubads.g.doubleclick.net	#interferes with video on cwtv.com
 0.0.0.0 rd.intl.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.l.doubleclick.net
@@ -6066,7 +6066,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ninemsn.imrworldwide.com
 0.0.0.0 rc-au.imrworldwide.com
 0.0.0.0 redsheriff.com
-#0.0.0.0 secure-au.imrworldwide.com
+0.0.0.0 secure-au.imrworldwide.com
 0.0.0.0 secure-jp.imrworldwide.com
 0.0.0.0 secure-nz.imrworldwide.com
 0.0.0.0 secure-uk.imrworldwide.com
@@ -6221,8 +6221,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 apdigitalorg.112.2o7.net
 0.0.0.0 apdigitalorgovn.112.2o7.net
 0.0.0.0 apnonline.112.2o7.net
-#0.0.0.0 appleglobal.112.2o7.net	#breaks apple.com
-#0.0.0.0 applestoreus.112.2o7.net	#breaks apple.com
+0.0.0.0 appleglobal.112.2o7.net	#breaks apple.com
+0.0.0.0 applestoreus.112.2o7.net	#breaks apple.com
 0.0.0.0 atlassian.122.2o7.net
 0.0.0.0 autobytel.112.2o7.net
 0.0.0.0 autoweb.112.2o7.net
@@ -6771,18 +6771,18 @@ ff02::3 ip6-allhosts
 
 #
 #
-#0.0.0.0 adfarm.mediaplex.com		# may interfere with ebay
-#0.0.0.0 ads.msn.com			#This may cause problems with zone.msn.com
-#0.0.0.0 ak.imgfarm.com		# may cause problems with iwon.com
-#0.0.0.0 click.linksynergy.com
-#0.0.0.0 global.msads.net		#This may cause problems with zone.msn.com
-#0.0.0.0 lads.myspace.com		# blocks myspace media/video players
-#0.0.0.0 refer.ccbill.com		#affiliate program, to add it back, remove the #
-#0.0.0.0 rmads.msn.com			#This may cause problems with zone.msn.com
-#0.0.0.0 www.apmebf.com		#qksrv
-#0.0.0.0 www.tkqlhce.com		#qksrv
-#0.0.0.0 ad.ca.doubleclick.net	#intereferes with video on globeandmail.com
-#0.0.0.0 transfer.go.com		#may interfere with Disney websites
+0.0.0.0 adfarm.mediaplex.com		# may interfere with ebay
+0.0.0.0 ads.msn.com			#This may cause problems with zone.msn.com
+0.0.0.0 ak.imgfarm.com		# may cause problems with iwon.com
+0.0.0.0 click.linksynergy.com
+0.0.0.0 global.msads.net		#This may cause problems with zone.msn.com
+0.0.0.0 lads.myspace.com		# blocks myspace media/video players
+0.0.0.0 refer.ccbill.com		#affiliate program, to add it back, remove the #
+0.0.0.0 rmads.msn.com			#This may cause problems with zone.msn.com
+0.0.0.0 www.apmebf.com		#qksrv
+0.0.0.0 www.tkqlhce.com		#qksrv
+0.0.0.0 ad.ca.doubleclick.net	#intereferes with video on globeandmail.com
+0.0.0.0 transfer.go.com		#may interfere with Disney websites
 #
 
 # ads
@@ -6902,7 +6902,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.as-us.falkag.net
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax-cpm.amazon-adsystem.com
-#0.0.0.0 aax-eu.amazon-adsystem.com 	# may interfere with Amazon ad preferences
+0.0.0.0 aax-eu.amazon-adsystem.com 	# may interfere with Amazon ad preferences
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 ab913aa797e78b3.com
@@ -12904,7 +12904,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 safenyplanet.in
 0.0.0.0 sagent.io
 0.0.0.0 salesforcecom.tt.omtrdc.net
-#0.0.0.0 s.amazon-adsystem.com	# may interfere with Amazon ad preferences
+0.0.0.0 s.amazon-adsystem.com	# may interfere with Amazon ad preferences
 0.0.0.0 samsung3.solution.weborama.fr
 0.0.0.0 sanalreklam.com
 0.0.0.0 sarah.dntrx.com
@@ -15255,7 +15255,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 us.f1.yimg.com
 0.0.0.0 us.g1.yimg.com
 0.0.0.0 us.h1.yimg.com
-#0.0.0.0 us.i1.yimg.com	#Uncomment this to block yahoo images
+0.0.0.0 us.i1.yimg.com	#Uncomment this to block yahoo images
 0.0.0.0 us.j1.yimg.com
 0.0.0.0 us.k1.yimg.com
 0.0.0.0 us.l1.yimg.com

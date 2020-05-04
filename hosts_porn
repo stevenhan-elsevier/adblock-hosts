@@ -37792,7 +37792,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.aspalliance.com
 0.0.0.0 www.astalavista.us
 0.0.0.0 logw349.ati-host.net
-# 0.0.0.0 rules.atgsvcs.com #[affects banking]
+0.0.0.0 rules.atgsvcs.com #[affects banking]
 0.0.0.0 logw312.ati-host.net
 0.0.0.0 ads.auctionads.com
 0.0.0.0 ad.auditude.com
@@ -37807,7 +37807,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rev.avsforum.com
 0.0.0.0 ads.avusa.co.za
 0.0.0.0 analytics.aweber.com
-# 0.0.0.0 clicks.aweber.com #[affects newsletters]
+0.0.0.0 clicks.aweber.com #[affects newsletters]
 0.0.0.0 www.azmsoft.com
 # [B]
 0.0.0.0 ads.badische-zeitung.de
@@ -37918,7 +37918,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cn.ecritel.bench.cedexis.com
 0.0.0.0 t.cfjump.com
 0.0.0.0 count.channeladvisor.com
-# 0.0.0.0 st.chatango.com #[affects chat]
+0.0.0.0 st.chatango.com #[affects chat]
 0.0.0.0 code.checkstat.nl
 0.0.0.0 www.checkstat.nl
 0.0.0.0 ads.china.com
@@ -37980,7 +37980,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.crossworxs.eu
 0.0.0.0 i.ctnsnet.com
 0.0.0.0 ads.milliyet.cubecdn.net
-# 0.0.0.0 cdn.cxense.com #[affects dagsavisen.no]
+0.0.0.0 cdn.cxense.com #[affects dagsavisen.no]
 0.0.0.0 www.cybereps.com
 # [D]
 0.0.0.0 count.daem0n.com
@@ -38190,7 +38190,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.gumgum.com
 0.0.0.0 c.gumgum.com
 0.0.0.0 cdn.gumgum.com
-# 0.0.0.0 www.sdad.guru #[affects msn.com]
+0.0.0.0 www.sdad.guru #[affects msn.com]
 0.0.0.0 guruads.de
 0.0.0.0 beacon.gutefrage.net
 0.0.0.0 adhese.gva.be
@@ -38251,7 +38251,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.idg.no  #[WebTrends]
 0.0.0.0 adidm07.idmnet.pl
 0.0.0.0 adidm.idmnet.pl
-# 0.0.0.0 mpsnare.iesnare.com #[affects westernunion.com]
+0.0.0.0 mpsnare.iesnare.com #[affects westernunion.com]
 0.0.0.0 adsrv2.ihlassondakika.com
 0.0.0.0 rc.bt.ilsemedia.nl
 0.0.0.0 ads.imarketservices.com
@@ -38310,7 +38310,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 site.johnlewis.com
 0.0.0.0 www.jouwstats.nl
 0.0.0.0 www.jscount.com
-# 0.0.0.0 cdn.jsdelivr.net #[affects spireenergy.com]
+0.0.0.0 cdn.jsdelivr.net #[affects spireenergy.com]
 0.0.0.0 stats.jtvnw.net
 0.0.0.0 ck.juicyads.com
 0.0.0.0 js.juicyads.com
@@ -38524,7 +38524,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 h.online-metrix.net
 0.0.0.0 sayac.onlinewebstats.com
 0.0.0.0 lifemediahouse1.onlinewelten.com
-# 0.0.0.0 assets.onswipe.com #[affects mobile devices]
+0.0.0.0 assets.onswipe.com #[affects mobile devices]
 0.0.0.0 i.xx.openx.com
 0.0.0.0 c1.openx.org
 0.0.0.0 c3.openx.org
@@ -38571,7 +38571,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pu.plugrush.com
 0.0.0.0 webstats.plus.net
 0.0.0.0 pxl.pmsrvr.com  #[WebBug]
-# 0.0.0.0 po.st #[affects URL shortening]
+0.0.0.0 po.st #[affects URL shortening]
 0.0.0.0 ads.po-zdravidnes.com
 0.0.0.0 piwik.pokerlistings.com  #[Piwik.Analytics]
 0.0.0.0 adserve.podaddies.com
@@ -38671,7 +38671,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.rtvslo.si
 0.0.0.0 adserver.rtvutrechtreclame.nl
 0.0.0.0 advert.runescape.com
-# 0.0.0.0 runslin.com
+0.0.0.0 runslin.com
 0.0.0.0 banners.rushcommerce.com
 0.0.0.0 rutrk.org
 # [S]
@@ -38732,7 +38732,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.spongecell.com
 0.0.0.0 www.sponsorads.de
 0.0.0.0 bms.sportal.ru
-# 0.0.0.0 spclient.wg.spotify.com #[affects mobile app]
+0.0.0.0 spclient.wg.spotify.com #[affects mobile app]
 0.0.0.0 js.spotx.tv
 0.0.0.0 search.spotxchange.com
 0.0.0.0 www.speedcounter.net
@@ -38846,8 +38846,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 objects.tremormedia.com  #[adserver.adtechus.com]
 0.0.0.0 www.trendcounter.com
 0.0.0.0 ads.tripican.com
-# 0.0.0.0 s1.trrsf.com #[affects terra.com]
-# 0.0.0.0 s2.trrsf.com #[affects terra.com]
+0.0.0.0 s1.trrsf.com #[affects terra.com]
+0.0.0.0 s2.trrsf.com #[affects terra.com]
 0.0.0.0 hits3.truehits.net
 0.0.0.0 tracker.truehits.net
 0.0.0.0 origin-tracking.trulia.com
@@ -38861,7 +38861,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.tv2.no  #[RealMedia]
 0.0.0.0 adserver.tvcatchup.com
 0.0.0.0 p.tvpixel.com
-# 0.0.0.0 analytics.twitter.com #[affects Twitter Dashboard]
+0.0.0.0 analytics.twitter.com #[affects Twitter Dashboard]
 0.0.0.0 twittercounter.com
 0.0.0.0 srv2.twittercounter.com
 0.0.0.0 et.twyn.com
@@ -38881,7 +38881,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ukrbanner.net
 0.0.0.0 tracking.ukwm.co.uk
 0.0.0.0 www.ultimatetopsites.com
-# 0.0.0.0 tags.api.umbel.com #[affects polygon.com]
+0.0.0.0 tags.api.umbel.com #[affects polygon.com]
 0.0.0.0 undertonenetworks.com  #[zedo.com]
 0.0.0.0 www.undertonenetworks.com
 0.0.0.0 adserving.unibet.com
@@ -38921,7 +38921,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 advice-ads-cdn.vice.com
 0.0.0.0 geoip-lookup.vice.com
 0.0.0.0 vice-ads-cdn.vice.com
-# 0.0.0.0 vice-web-statics-cdn.vice.com #[affects vice.com]
+0.0.0.0 vice-web-statics-cdn.vice.com #[affects vice.com]
 0.0.0.0 chappel.videogamer.com
 0.0.0.0 ads.videohub.tv
 0.0.0.0 adserver.virginmedia.com
@@ -38944,7 +38944,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.affil.walmart.com
 0.0.0.0 ad.wanderlist.com
-# 0.0.0.0 tracking.waterfrontmedia.com #[affects MayoClinic]
+0.0.0.0 tracking.waterfrontmedia.com #[affects MayoClinic]
 0.0.0.0 delivery.way2traffic.com
 0.0.0.0 ads.weather.ca
 0.0.0.0 btn.counter.weather.ca
@@ -38978,7 +38978,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.wipmania.com  #[affects WorldIP]
 0.0.0.0 stats.wired.com
 0.0.0.0 ctsde01.wiredminds.de
-# 0.0.0.0 f.wishabi.net #[affects walmart.ca]
+0.0.0.0 f.wishabi.net #[affects walmart.ca]
 0.0.0.0 helper-stats.wondershare.com
 0.0.0.0 phpadsnew.wn.com
 0.0.0.0 clicktrack.wnu.com
@@ -39438,7 +39438,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tradearabia.advertserve.com
 0.0.0.0 www.advertserve.com
 # [Adverserve Pa][AS33890][77.72.164.0 - 77.72.164.31]
-# 0.0.0.0 static.kleinezeitung.at
+0.0.0.0 static.kleinezeitung.at
 0.0.0.0 static.styria-digital.com
 # [Advida Media][AS25180][83.244.139.32 - 83.244.139.63]
 0.0.0.0 adstats.adviva.net
@@ -39469,13 +39469,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 tag.aticdn.net
 0.0.0.0 a.bf-ad.net
 0.0.0.0 fast.timeinc.demdex.net
-# 0.0.0.0 dap.digitalgov.gov #[Universal Federated Analytics]
+0.0.0.0 dap.digitalgov.gov #[Universal Federated Analytics]
 0.0.0.0 ac.realvu.net
 # [Akamai][AS20940][125.56.128.0 - 125.56.255.255]
 # [Akamai][AS20940][172.224.0.0 - 172.239.255.255]
 0.0.0.0 static.ampxchange.com
 0.0.0.0 p.bm23.com
-# 0.0.0.0 cdn.tt.omtrdc.net #[affects Verizon]
+0.0.0.0 cdn.tt.omtrdc.net #[affects Verizon]
 # [Akamai][AS20940][173.222.0.0 - 173.223.255.255]
 0.0.0.0 b.thanksearch.com
 0.0.0.0 e.thanksearch.com
@@ -39518,7 +39518,7 @@ ff02::3 ip6-allhosts
 # [Akamai][AS3257][2.16.88.0 - 2.19.191.255]
 0.0.0.0 mediaserver.bwinpartypartners.com
 0.0.0.0 www.everestjs.net
-# 0.0.0.0 cdn.optimizely.com #[affects sigfig.com/ 2go.com]
+0.0.0.0 cdn.optimizely.com #[affects sigfig.com/ 2go.com]
 0.0.0.0 cdn.static.zdbb.net
 # [Akamai][AS20940][204.245.128.0 - 204.245.191.255]
 # [Akamai][AS33659][23.0.0.0 - 23.67.255.255]
@@ -39529,7 +39529,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.adk2.co
 0.0.0.0 matomy.adk2.co
 0.0.0.0 ad-media.xe.gr
-# 0.0.0.0 assets.adobedtm.com #[affects landsend.com]
+0.0.0.0 assets.adobedtm.com #[affects landsend.com]
 0.0.0.0 www.adobetag.com  #[SiteCatalyst Link Tracking]
 0.0.0.0 a.adready.com
 0.0.0.0 www.adreadytractions.com
@@ -39546,20 +39546,20 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.bidvertiser.com
 0.0.0.0 ads.cdnslate.com
 0.0.0.0 cc.chango.com
-# 0.0.0.0 ad-js.chip.de #[affects images]
+0.0.0.0 ad-js.chip.de #[affects images]
 0.0.0.0 cdn1.clkrev.com
 0.0.0.0 img.en25.com
 0.0.0.0 tiads.essence.com
 0.0.0.0 tiads.ew.com
 0.0.0.0 promo.freshdirect.com
-# 0.0.0.0 cdns.gigya.com #[affects IHeartRadio]
+0.0.0.0 cdns.gigya.com #[affects IHeartRadio]
 0.0.0.0 tiads.health.com
 0.0.0.0 js.hs-analytics.net  #[HubSpot Analytics Tracking Code]
-# 0.0.0.0 s2.mdpcdn.com #[affects bhg.com]
+0.0.0.0 s2.mdpcdn.com #[affects bhg.com]
 0.0.0.0 cdn.mediavoice.com
 0.0.0.0 d-track.send.microadinc.com
 0.0.0.0 mnet-ad.net
-# 0.0.0.0 cdn.mxpnl.com #[affects optimum.com]
+0.0.0.0 cdn.mxpnl.com #[affects optimum.com]
 0.0.0.0 adcache.nymag.com
 0.0.0.0 cdn.polmontventures.com
 0.0.0.0 a.postrelease.com
@@ -39572,8 +39572,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 us.rewardearners.com
 0.0.0.0 c2.rfihub.net
 0.0.0.0 m.servebom.com
-# 0.0.0.0 tiads.time.com #[affects Time.com]
-# 0.0.0.0 cdn.vidible.tv #[affects Aol]
+0.0.0.0 tiads.time.com #[affects Time.com]
+0.0.0.0 cdn.vidible.tv #[affects Aol]
 0.0.0.0 content.womensforum.com
 # [Akamai][AS16625][23.72.0.0 - 23.79.255.255]
 # [Akamai][AS20940][69.192.0.0 - 69.192.255.255]
@@ -39603,9 +39603,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 dmeserv.newsinc.com  #[Analytics.Tracker]
 0.0.0.0 ad.policeone.com
 0.0.0.0 graphics.pop6.com
-# 0.0.0.0  media.richrelevance.com #[affects Walmart.ca]
+0.0.0.0  media.richrelevance.com #[affects Walmart.ca]
 0.0.0.0 a.rmgserving.com
-# 0.0.0.0  imagesak.secureserver.net #[affects GoDaddy]
+0.0.0.0  imagesak.secureserver.net #[affects GoDaddy]
 0.0.0.0 track.sitetag.us
 0.0.0.0 anon.doubleclick.speedera.net
 0.0.0.0 fms2.eyewonder.speedera.net
@@ -39700,7 +39700,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pix.silverpush.co
 0.0.0.0 ads.skinected.com
 0.0.0.0 ads.supplyframe.com
-# 0.0.0.0 analytics.supplyframe.com #[affects findchips.com]
+0.0.0.0 analytics.supplyframe.com #[affects findchips.com]
 0.0.0.0 images.ads.supplyframe.com
 0.0.0.0 b.t.tailtarget.com
 0.0.0.0 ads.tracking202.com
@@ -39716,7 +39716,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adunit.chango.com
 0.0.0.0 admonkey.dapper.net
 0.0.0.0 b.ensighten.com
-# 0.0.0.0 nexus.ensighten.com #[affects Subaru / Staples]
+0.0.0.0 nexus.ensighten.com #[affects Subaru / Staples]
 0.0.0.0 cs.exitmonitor.com
 0.0.0.0 g2.gumgum.com
 0.0.0.0 stack9.collect.igodigital.com
@@ -39732,7 +39732,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 req.tidaltv.com
 0.0.0.0 static.tracking202.com
 0.0.0.0 p1.tcr21.tynt.com
-# 0.0.0.0 redirect.viglink.com #[affects disqus.com]
+0.0.0.0 redirect.viglink.com #[affects disqus.com]
 0.0.0.0 www.w3counter.com
 0.0.0.0 b.wishabi.com
 0.0.0.0 track.yieldsoftware.com
@@ -39792,7 +39792,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.realtor.com
 0.0.0.0 cdn.spectate.com
 0.0.0.0 track.securedvisit.com
-# 0.0.0.0 id.trove.com #[prevents registration]
+0.0.0.0 id.trove.com #[prevents registration]
 0.0.0.0 rtb.tubemogul.com
 0.0.0.0 www.webspectator.com
 # [Amazon.com][AS14618][204.236.128.0 - 204.236.255.255]
@@ -39812,7 +39812,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.goodreads.com
 0.0.0.0 lionstracking.com
 0.0.0.0 t.mdn2015x3.com
-# 0.0.0.0 widget-cdn.rpxnow.com #[affects amc.com]
+0.0.0.0 widget-cdn.rpxnow.com #[affects amc.com]
 0.0.0.0 secureredirect101.com
 0.0.0.0 static.springmetrics.com
 0.0.0.0 trkmydomain.com
@@ -39910,7 +39910,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.barilliance.net
 0.0.0.0 srv.clickfuse.com
 0.0.0.0 com.com
-# 0.0.0.0 api.demandbase.com #[affects Ringcentral]
+0.0.0.0 api.demandbase.com #[affects Ringcentral]
 0.0.0.0 adobe.demdex.net
 0.0.0.0 fairfax.demdex.net
 0.0.0.0 mtvn.demdex.net
@@ -39940,7 +39940,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 js.srcsmrtgs.com
 0.0.0.0 cdn.targetfuel.com
 0.0.0.0 e.targetfuel.com
-# 0.0.0.0 idvisitor.washingtonpost.com #[affects login]
+0.0.0.0 idvisitor.washingtonpost.com #[affects login]
 0.0.0.0 analytics.wishabi.ca
 0.0.0.0 track.written.com
 0.0.0.0 www.wtp101.com
@@ -40051,7 +40051,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 srv.stackadapt.com
 0.0.0.0 redirect.todayreward.net
 0.0.0.0 track.todayreward.net
-# 0.0.0.0 wurfl.io #[affects Google]
+0.0.0.0 wurfl.io #[affects Google]
 # [Amazon.com][AS16509][54.176.0.0 - 54.191.255.255]
 0.0.0.0 www.cloudtracked.com
 0.0.0.0 za-ssl.effectivemeasure.net
@@ -40068,7 +40068,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d1lxhc4jvstzrp.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
-# 0.0.0.0 d2gatte9o95jao.cloudfront.net #[affects urbandictionary.com]
+0.0.0.0 d2gatte9o95jao.cloudfront.net #[affects urbandictionary.com]
 0.0.0.0 d2zah9y47r7bi2.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d.dc121677.com
@@ -40076,7 +40076,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gscounters.eu1.gigya.com
 0.0.0.0 resources.kiosked.com
 0.0.0.0 cdn.listrakbi.com
-# 0.0.0.0 www.livefyre.com #[affects startribune.com]
+0.0.0.0 www.livefyre.com #[affects startribune.com]
 0.0.0.0 cdn.matheranalytics.com  #[Snowplow Analytics]
 0.0.0.0 t.mdn2015x2.com
 0.0.0.0 stag.mdotlabs.com
@@ -40122,7 +40122,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rumds.wpdigital.net
 0.0.0.0 i.yldbt.com
 0.0.0.0 z2.zedo.com
-# 0.0.0.0 segment-data.zqtk.net #[affects wsj.com]
+0.0.0.0 segment-data.zqtk.net #[affects wsj.com]
 # [Amazon.com][AS16509][54.224.0.0 - 54.239.255.255]
 0.0.0.0 optimize.adpushup.com
 0.0.0.0 ads-stream.com
@@ -40160,7 +40160,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d2nq0f8d9ofdwv.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
-# 0.0.0.0 d3c3cq33003psk.cloudfront.net #[affects sunglassesshop.com]
+0.0.0.0 d3c3cq33003psk.cloudfront.net #[affects sunglassesshop.com]
 0.0.0.0 d3dcugpvnepf41.cloudfront.net
 0.0.0.0 d3ujids68p6xmq.cloudfront.net
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
@@ -40170,7 +40170,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 use.convertglobal.com
 0.0.0.0 p.cpx.to
 0.0.0.0 admp-tc.delfi.lv
-# 0.0.0.0 scripts.demandbase.com #[affects ringcentral.com]
+0.0.0.0 scripts.demandbase.com #[affects ringcentral.com]
 0.0.0.0 bet.demdex.net
 0.0.0.0 cbsi.demdex.net
 0.0.0.0 de.demdex.net
@@ -40230,7 +40230,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.userreport.com
 0.0.0.0 cdn.userreport.com
 0.0.0.0 sdscdn.userreport.com
-# 0.0.0.0 delivery.vidible.tv #[affects aol.com]
+0.0.0.0 delivery.vidible.tv #[affects aol.com]
 0.0.0.0 wsc1.webspectator.com
 0.0.0.0 zafiti01.webtrekk-us.net
 0.0.0.0 mb.zam.com
@@ -40296,7 +40296,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 traffic-offers.com
 0.0.0.0 collector-2398.tvsquared.com
 0.0.0.0 konnect.videoplaza.tv
-# 0.0.0.0 id.washingtonpost.com #[affects login]
+0.0.0.0 id.washingtonpost.com #[affects login]
 0.0.0.0 scripts.webspectator.com
 0.0.0.0 a.wishabi.com
 0.0.0.0 track.youniversalmedia.com
@@ -40524,7 +40524,7 @@ ff02::3 ip6-allhosts
 # [AppNexus][AS29990][204.13.192.0 - 204.13.199.255]
 0.0.0.0 ib.reachjunction.com
 # [AppNexus / Bandcon][AS29990][8.12.224.0 - 8.12.239.255]
-# 0.0.0.0 ib.adnxs.com #[affects Microsoft site]
+0.0.0.0 ib.adnxs.com #[affects Microsoft site]
 0.0.0.0 ad.aquamediadirect.com
 0.0.0.0 action.media6degrees.com
 # [AppNexus / Bandcon][AS29990][8.19.16.0 - 8.19.31.255]
@@ -40817,7 +40817,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mads.bnet.com
 0.0.0.0 ocp.bnet.com
 0.0.0.0 adlog.cbsi.com
-# 0.0.0.0 dw.cbsi.com #[affects CNET downloads]
+0.0.0.0 dw.cbsi.com #[affects CNET downloads]
 0.0.0.0 mads.cbs.com
 0.0.0.0 track.cbs.com  #[WebBug]
 0.0.0.0 mads.cbsnews.com
@@ -41015,7 +41015,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adsbookie.com
 0.0.0.0 ads.adsbookie.com
 0.0.0.0 t.cqq5id8n.com
-# 0.0.0.0 js.maxmind.com #[affects marchon.com / directvnow.com]
+0.0.0.0 js.maxmind.com #[affects marchon.com / directvnow.com]
 0.0.0.0 ads.mylikes.com
 0.0.0.0 www.mystat.pl
 0.0.0.0 odzb5nkp.com
@@ -41344,7 +41344,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 images.cnomy.com
 0.0.0.0 ads.webhosting.info
 # [Disney Company][ABC News][INFOSEEK]
-# 0.0.0.0 hb.disney.go.com #[affects links]
+0.0.0.0 hb.disney.go.com #[affects links]
 0.0.0.0 seavideo-ak.espn.go.com
 0.0.0.0 adsatt.abcnews.starwave.com
 0.0.0.0 adsatt.disney.starwave.com
@@ -41441,13 +41441,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 adunit.cdn.auditude.com
 0.0.0.0 ndn.cdn.auditude.com
 0.0.0.0 cv.bsvideos.com
-# 0.0.0.0 livepassdl.conviva.com #[affects videos]
+0.0.0.0 livepassdl.conviva.com #[affects videos]
 0.0.0.0 banners.crakcash.com
 0.0.0.0 pixel.indieclick.com
 0.0.0.0 staticd.cdn.industrybrains.com
 0.0.0.0 electosake.com
 0.0.0.0 c.supert.ag
-# 0.0.0.0 tags.tiqcdn.com #[affects Intel.com/Shaw]
+0.0.0.0 tags.tiqcdn.com #[affects Intel.com/Shaw]
 0.0.0.0 tororango.com
 0.0.0.0 cdn.engine.trklnks.com
 0.0.0.0 img1.zergnet.com
@@ -41497,13 +41497,13 @@ ff02::3 ip6-allhosts
 # [Ethernetix / LivePerson][AS11054][208.89.12.0 - 208.89.15.255]
 0.0.0.0 www.humanclick.com
 0.0.0.0 hc2.humanclick.com  #[Tracking.Cookie]
-# 0.0.0.0 wizard.liveperson.com
-# 0.0.0.0 www.liveperson.com #[affects citi.com]
-# 0.0.0.0 liveperson.net
-# 0.0.0.0 lptag.liveperson.net
-# 0.0.0.0 sales.liveperson.net #[affects Live Chat]
-# 0.0.0.0 sec1.liveperson.net
-# 0.0.0.0 server.iad.liveperson.net
+0.0.0.0 wizard.liveperson.com
+0.0.0.0 www.liveperson.com #[affects citi.com]
+0.0.0.0 liveperson.net
+0.0.0.0 lptag.liveperson.net
+0.0.0.0 sales.liveperson.net #[affects Live Chat]
+0.0.0.0 sec1.liveperson.net
+0.0.0.0 server.iad.liveperson.net
 # [Euroaccess][AS34305][193.138.220.0 - 193.138.231.255]
 0.0.0.0 www.hostedbanners.com
 0.0.0.0 landingpages.sunnytoolz.com
@@ -41614,7 +41614,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 1c6e2.v.fwmrm.net
 0.0.0.0 2df7e.v.fwmrm.net
 0.0.0.0 5bde1.v.fwmrm.net
-# 0.0.0.0 140cc.v.fwmrm.net #[affects videos]
+0.0.0.0 140cc.v.fwmrm.net #[affects videos]
 0.0.0.0 2975c.v.fwmrm.net
 0.0.0.0 29773.v.fwmrm.net
 0.0.0.0 bea4.v.fwmrm.net
@@ -41905,11 +41905,11 @@ ff02::3 ip6-allhosts
 # [Global Crossing][AS29973][206.165.0.0 - 206.165.255.255]
 0.0.0.0 www.clickaction.net
 0.0.0.0 server2.discountclick.com
-# 0.0.0.0 link.p0.com #[Affects email newsletters]
+0.0.0.0 link.p0.com #[Affects email newsletters]
 # [Global Crossing][AS3549][208.48.224.0 - 208.51.255.255]
 0.0.0.0 a.hspvst.com
 # [Global Crossing][AS3549][64.211.0.0 - 64.214.223.255]
-# 0.0.0.0 secure.footprint.net #[affects nfl.com]
+0.0.0.0 secure.footprint.net #[affects nfl.com]
 # [Global Crossing][AS3549][64.208.42.0 - 64.208.43.255]
 0.0.0.0 van.redlightcenter.com
 0.0.0.0 webmaster.utherverse.com
@@ -41949,7 +41949,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.redemptionengine.com
 # [Godaddy.com][64.202.160.0 - 64.202.191.255]
 0.0.0.0 images-pw.secureserver.net  #[Parking Service]
-# 0.0.0.0 images.secureserver.net #[affects GoDaddy]
+0.0.0.0 images.secureserver.net #[affects GoDaddy]
 # [Godaddy.com][AS26496][72.167.0.0 - 72.167.255.255]
 # [Godaddy.com][97.74.0.0 - 97.74.255.255]
 0.0.0.0 highpro1.com
@@ -42003,7 +42003,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 undefined.fls.doubleclick.net
 # [Google][AS15169][173.194.0.0 - 173.194.255.255]
 0.0.0.0 5362399.fls.doubleclick.net
-# 0.0.0.0 redirector.googlevideo.com #[affects video playback]
+0.0.0.0 redirector.googlevideo.com #[affects video playback]
 # [Google / DoubleClick][AS15169][173.194.0.0 - 173.194.255.255]
 0.0.0.0 service.urchin.com  #[Urchin Tracking Module]
 # [Google / DoubleClick][AS15169][209.85.128.0 - 209.85.255.255]
@@ -42014,7 +42014,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 4053494.fls.doubleclick.net
 0.0.0.0 4236808.fls.doubleclick.net
-# 0.0.0.0 www.googletagmanager.com #[affects ASUS]
+0.0.0.0 www.googletagmanager.com #[affects ASUS]
 # [Google / DoubleClick][AS6432][216.73.80.0 - 216.73.95.255]
 0.0.0.0 www3.webhostingtalk.com
 # [Google][AS15169][23.236.128.0 - 23.251.159.255]
@@ -42090,13 +42090,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 www3.doubleclick.com
 0.0.0.0 www.doubleclick.com
 0.0.0.0 www.bt.emsecure.net
-# 0.0.0.0  www.youtube-nocookie.com #[affects various videos]
+0.0.0.0  www.youtube-nocookie.com #[affects various videos]
 # [Google / DoubleClick][AS15169][66.249.64.0 - 66.249.95.255]
 0.0.0.0 ad.rs.doubleclick.net
 # [Google / DoubleClick][AS15169][72.14.192.0 - 72.14.255.255]
 0.0.0.0 affiliate.2mdn.net
-# 0.0.0.0  s0.2mdn.net #[affects video stream]
-# 0.0.0.0  static.2mdn.net #[affects Youtube]
+0.0.0.0  s0.2mdn.net #[affects video stream]
+0.0.0.0  static.2mdn.net #[affects Youtube]
 0.0.0.0 clickserve.us2.dartsearch.net
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 n4061ad.hk.doubleclick.net
@@ -42487,7 +42487,7 @@ ff02::3 ip6-allhosts
 # [IAC Search Media][AS16798][66.235.112.0 - 66.235.127.255]
 0.0.0.0 image.i1img.com
 0.0.0.0 kc.search.need2find.com  #[mwave.AdWare.MySearch.e]
-# 0.0.0.0  wzus1.reference.com #[affects Dictonary.com]
+0.0.0.0  wzus1.reference.com #[affects Dictonary.com]
 # [InterConnect / Viper][AS9150][213.207.92.0 - 213.207.97.255]
 0.0.0.0 www.erodynamics.nl
 0.0.0.0 ads.happyidiots.nl
@@ -42800,7 +42800,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 counter.joins.com
 # [LambdaNet / Ipilum.com][AS13237][80.86.167.128 - 80.86.167.255]
 # [Layer42.net][AS8121][64.13.128.0 - 64.13.191.255]
-# 0.0.0.0 www.luminate.com #[affects login]
+0.0.0.0 www.luminate.com #[affects login]
 # [Layered Technologies][AS22576][72.232.0.0 - 72.233.127.255]
 0.0.0.0 openx.4shared.com
 0.0.0.0 www.easycounter.com
@@ -43016,7 +43016,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 banners.securedataimages.com
 0.0.0.0 e.sexad.net
 0.0.0.0 pod.sexsearch.com
-# 0.0.0.0 api.solvemedia.com #[affects captcha]
+0.0.0.0 api.solvemedia.com #[affects captcha]
 0.0.0.0 pixel.solvemedia.com
 0.0.0.0 fms2.pointroll.speedera.net
 0.0.0.0 ad-cdn.technoratimedia.com
@@ -43053,7 +43053,7 @@ ff02::3 ip6-allhosts
 # [Limelight][69.164.0.0 - 69.164.63.255]
 0.0.0.0 img100-321.xvideos.com
 # [Limelight][69.28.128.0 - 69.28.191.255]
-# 0.0.0.0  libs.coremetrics.com #[affects tMobile/EverBank]
+0.0.0.0  libs.coremetrics.com #[affects tMobile/EverBank]
 0.0.0.0 cdn.content.exoticads.com
 # [Limestone][AS46475][69.162.64.0 - 69.162.127.255]
 0.0.0.0 e.freewebhostingarea.com
@@ -43193,7 +43193,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 w.estat.com
 0.0.0.0 www.estat.com
 # [Mediametrie Estat][AS34980][91.213.146.0 - 91.213.146.255]
-# 0.0.0.0  stat3.cybermonitor.com #[affects podcasts]
+0.0.0.0  stat3.cybermonitor.com #[affects podcasts]
 # [Media Temple][AS31815][216.70.64.0 - 216.70.127.255]
 0.0.0.0 www.adpeepshosted.com
 # [Media Temple][AS31815][64.207.128.0 - 64.207.191.255]
@@ -43213,8 +43213,8 @@ ff02::3 ip6-allhosts
 # [Microsoft][AS8075][137.135.0.0 - 137.135.255.255]
 0.0.0.0 my.trackjs.com
 # [Microsoft][AS8075][157.54.0.0 - 157.60.255.255]
-# 0.0.0.0  switch.atdmt.com #[affects Hotmail signup]
-# 0.0.0.0  view.atdmt.com #[affects Microsoft / Sprint.com]
+0.0.0.0  switch.atdmt.com #[affects Hotmail signup]
+0.0.0.0  view.atdmt.com #[affects Microsoft / Sprint.com]
 0.0.0.0 www.atdmt.com  #[AveA Action Tag]
 0.0.0.0 analytics.newsvine.com
 # [Microsoft][AS8075][168.61.0.0 - 168.63.255.255]
@@ -43246,14 +43246,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 ads.eu.msn.com
 0.0.0.0 popup.msn.com
-# 0.0.0.0  rad.msn.com #[affects MSN Messenger]
+0.0.0.0  rad.msn.com #[affects MSN Messenger]
 0.0.0.0 rmads.msn.com
 0.0.0.0 rmads.eu.msn.com
 0.0.0.0 analytics.msnbc.com
 0.0.0.0 msn.serving-sys.com
 # [Microsoft][AS8075][70.37.0.0 - 70.37.191.255]
 # [Microsoft][AS8075][94.245.64.0 - 94.245.127.255]
-# 0.0.0.0  clk.atdmt.com #[affects MS downloads]
+0.0.0.0  clk.atdmt.com #[affects MS downloads]
 # [Mirror Image][AS12168][216.38.160.0 - 216.38.175.255]
 0.0.0.0 beacon.clickequations.net  #[WebBug]
 0.0.0.0 js.clickequations.net
@@ -43582,7 +43582,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 in-cdn.effectivemeasure.net
 # [Ntt America][168.143.0.0 - 168.143.255.255]
 0.0.0.0 scripts.chitika.net
-# 0.0.0.0 s.marketwatch.com #[affects marketwatch]
+0.0.0.0 s.marketwatch.com #[affects marketwatch]
 0.0.0.0 stags.peer39.net  #[PrivacyChoice.Tracker]
 # [Ntt America][198.104.0.0 - 198.104.255.255]
 0.0.0.0 www.zipitfast.com
@@ -43706,19 +43706,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.ilsole24ore.com
 0.0.0.0 stats2.luckymag.com
 0.0.0.0 metrics.necn.com
-# 0.0.0.0 citicorpcreditservic.tt.omtrdc.net
+0.0.0.0 citicorpcreditservic.tt.omtrdc.net
 0.0.0.0 metrics.td.com
 0.0.0.0 tracking.whattoexpect.com
 # [Omniture][AS15224][Wildcard DNS]
 0.0.0.0 102.112.207.net
-# 0.0.0.0 appleglobal.112.2o7.net #[affects Apple site]
+0.0.0.0 appleglobal.112.2o7.net #[affects Apple site]
 0.0.0.0 byubroadcast.112.2o7.net
 0.0.0.0 kasperthreatpostprod.112.2o7.net
 0.0.0.0 kaspersky.122.2o7.net
 0.0.0.0 ldsfch.112.2o7.net
 0.0.0.0 myfamilyancestry.112.2o7.net
 0.0.0.0 nautilus.122.2o7.net
-# 0.0.0.0  survey.112.2o7.net #[affect Sprint.com]
+0.0.0.0  survey.112.2o7.net #[affect Sprint.com]
 0.0.0.0 tirerackcom.112.2o7.net
 0.0.0.0 stats.esomniture.com  #[Tracking.Cookie]
 0.0.0.0 www.omniture.com
@@ -43729,7 +43729,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ewstv.abc15.com
 0.0.0.0 metrics.accuweather.com
 0.0.0.0 metrics.acehardware.com
-# 0.0.0.0 stats.adobe.com #[affects MacOS updates]
+0.0.0.0 stats.adobe.com #[affects MacOS updates]
 0.0.0.0 stats.adultswim.com
 0.0.0.0 analytic.ae.com
 0.0.0.0 metrics.aetn.com
@@ -43739,11 +43739,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.amakings.com
 0.0.0.0 metrics.amd.com
 0.0.0.0 metrics.americancityandcounty.com
-# 0.0.0.0 metrics.ancestry.co.uk #[affects login]
+0.0.0.0 metrics.ancestry.co.uk #[affects login]
 0.0.0.0 metric.angieslist.com
 0.0.0.0 metrics.apartmentfinder.com
-# 0.0.0.0 metrics.apple.com #[affects Apple site/MacOS]
-# 0.0.0.0 securemetrics.apple.com #[affects Apple site/MacOS]
+0.0.0.0 metrics.apple.com #[affects Apple site/MacOS]
+0.0.0.0 securemetrics.apple.com #[affects Apple site/MacOS]
 0.0.0.0 metrics.ariba.com
 0.0.0.0 omniture.artinstitutes.edu
 0.0.0.0 stats2.arstechnica.com
@@ -43793,7 +43793,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 webstat.channel4.com
 0.0.0.0 omniture.chip.de
 0.0.0.0 metrics.chron.com
-# 0.0.0.0 metrics1.citibank.com #[affects login]
+0.0.0.0 metrics1.citibank.com #[affects login]
 0.0.0.0 om.cnet.co.uk
 0.0.0.0 metrics.cleveland.com
 0.0.0.0 metrics.cnn.com
@@ -43801,7 +43801,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 serviceo.comcast.net
 0.0.0.0 metrics.compactappliance.com
 0.0.0.0 stats.concierge.com
-# 0.0.0.0 metrics.consumerreports.org #[affects login]
+0.0.0.0 metrics.consumerreports.org #[affects login]
 0.0.0.0 metrics.corus.ca
 0.0.0.0 metrics.cosmopolitan.co.uk
 0.0.0.0 omn.crackle.com
@@ -43854,7 +43854,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats2.golfdigest.com
 0.0.0.0 metrics.govexec.com
 0.0.0.0 stats.grubstreet.com
-# 0.0.0.0 w88.go.com #[affects espn.com]
+0.0.0.0 w88.go.com #[affects espn.com]
 0.0.0.0 hits.guardian.co.uk
 0.0.0.0 metrics.harley-davidson.com
 0.0.0.0 analytics.hayneedle.com
@@ -43873,7 +43873,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.investors.com
 0.0.0.0 metrics.store.irobot.com
 0.0.0.0 metrics.kbb.com
-# 0.0.0.0 ww9.kohls.com #[affects Chrome]
+0.0.0.0 ww9.kohls.com #[affects Chrome]
 0.0.0.0 metrics.lawyers.com
 0.0.0.0 metrics.lehighvalleylive.com
 0.0.0.0 metrics.us.levi.com
@@ -43881,7 +43881,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.lhj.com
 0.0.0.0 stats.libresse.no
 0.0.0.0 om.lonelyplanet.com
-# 0.0.0.0  omni.macworld.com #[affects Safari]
+0.0.0.0  omni.macworld.com #[affects Safari]
 0.0.0.0 analytics.mail-corp.com
 0.0.0.0 metric.makemytrip.com
 0.0.0.0 metric.marthastewart.com
@@ -43938,7 +43938,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.silive.com
 0.0.0.0 b.skinstore.com
 0.0.0.0 metrics.sky.com
-# 0.0.0.0 metrics.skype.com
+0.0.0.0 metrics.skype.com
 0.0.0.0 metrics.slate.com
 0.0.0.0 metrics.speedousa.com
 0.0.0.0 omni.sportingnews.com
@@ -43946,7 +43946,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.sony.com
 0.0.0.0 omn.sonypictures.com
 0.0.0.0 metrics.southwest.com
-# 0.0.0.0  metrics.sprint.com #[affects login]
+0.0.0.0  metrics.sprint.com #[affects login]
 0.0.0.0 metrics.starwoodhotels.com
 0.0.0.0 omniture.stuff.co.nz
 0.0.0.0 stats.style.com
@@ -43963,7 +43963,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.thinkgeek.com
 0.0.0.0 metrics.three.co.uk
 0.0.0.0 metrics.ticketmaster.com
-# 0.0.0.0 metric.timewarnercable.com #[affects billing?]
+0.0.0.0 metric.timewarnercable.com #[affects billing?]
 0.0.0.0 metrics.tlc.com
 0.0.0.0 metrics.toptenreviews.com
 0.0.0.0 metrics.toyota.com
@@ -43984,7 +43984,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.voyages-sncf.com
 0.0.0.0 stats.vulture.com
 0.0.0.0 wa.and.co.uk  #[b.scorecardresearch.com]
-# 0.0.0.0 metrics.washingtonpost.com #[affects login]
+0.0.0.0 metrics.washingtonpost.com #[affects login]
 0.0.0.0 webanalyticsnossl.websense.com
 0.0.0.0 std.o.webmd.com  #[Web Bug]
 0.0.0.0 metrics.which.co.uk
@@ -43994,7 +43994,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 an.worldbaseballclassic.com
 0.0.0.0 metric.worldcat.org
 0.0.0.0 metrics.worldmarket.com
-# 0.0.0.0 metric.wtop.com #[affects login]
+0.0.0.0 metric.wtop.com #[affects login]
 0.0.0.0 smetrics.yellowbook.com
 0.0.0.0 metric.yellowpages.com
 # [Omniture / Offermatica][66.150.139.0 - 66.150.139.63]
@@ -44289,7 +44289,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 js.bizographics.com
 0.0.0.0 images.ddc.com  #[Parking Service]
 0.0.0.0 cdn.firstlook.com
-# 0.0.0.0  adm.fwmrm.net #[affects nhl.com]
+0.0.0.0  adm.fwmrm.net #[affects nhl.com]
 0.0.0.0 m2.fwmrm.net
 0.0.0.0 cache.gfrevenge.com
 0.0.0.0 cache.izearanks.com
@@ -44557,7 +44557,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rate.opinionlab.com
 0.0.0.0 www.opinionlab.com
 # [Qwest / Akamai][AS209][67.148.147.0 - 67.148.147.255]
-# 0.0.0.0  static.chartbeat.com #[affects Healthcare.gov]
+0.0.0.0  static.chartbeat.com #[affects Healthcare.gov]
 0.0.0.0 csma95349.analytics.edgesuite.net
 # [Qwest / Tarrob][69.8.202.0 - 69.8.202.127]
 # [Qwest][70.56.0.0 - 70.59.255.255]
@@ -44719,7 +44719,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.rambler.ru  #[WebBug]
 0.0.0.0 ad2.rambler.ru
 0.0.0.0 counter.rambler.ru
-# 0.0.0.0  id.rambler.ru #[affects Rambler email]
+0.0.0.0  id.rambler.ru #[affects Rambler email]
 0.0.0.0 images.rambler.ru
 0.0.0.0 scnt.rambler.ru
 0.0.0.0 scounter.rambler.ru
@@ -44799,7 +44799,7 @@ ff02::3 ip6-allhosts
 # [Savvis][AS3561][205.138.0.0 - 205.140.175.255]
 0.0.0.0 bbads.sx.atl.publicus.com
 # [Savvis][AS3561][205.216.0.0 - 205.217.223.255]
-# 0.0.0.0 d.xp1.ru4.com #[affects Battlefield]
+0.0.0.0 d.xp1.ru4.com #[affects Battlefield]
 0.0.0.0 udm.ia6.scorecardresearch.com
 0.0.0.0 udm.ia7.scorecardresearch.com
 # [Savvis / Comscore][AS3561][205.218.0.0 - 205.219.255.255]
@@ -45072,7 +45072,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.chango.com
 0.0.0.0 d.chango.com
 0.0.0.0 dnetshelter3.d.chango.com
-# 0.0.0.0 realtime.services.disqus.com #[affects politicalwire.com]
+0.0.0.0 realtime.services.disqus.com #[affects politicalwire.com]
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 eclkmpbn.com
 0.0.0.0 eclkspbn.com
@@ -45164,7 +45164,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hits.informer.com
 0.0.0.0 my.mobfox.com
 0.0.0.0 banners.mynakedweb.com
-# 0.0.0.0 api.nanigans.com #[affects 2go.com]
+0.0.0.0 api.nanigans.com #[affects 2go.com]
 0.0.0.0 pi.pardot.com
 0.0.0.0 www.seekways.com
 0.0.0.0 www.toplistim.com
@@ -45769,7 +45769,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 webtrends1.britishgas.co.uk
 # [Verizon][AS702][212.153.70.0 - 212.155.198.31]
 # [ViaWest][AS13649][204.238.82.0 - 204.238.82.255]
-# 0.0.0.0 www.securitymetrics.com #[affects bank login]
+0.0.0.0 www.securitymetrics.com #[affects bank login]
 # [ViaWest][AS13649][206.71.64.0 - 206.71.95.255]
 0.0.0.0 mv.treehousei.com
 # [ViaWest][AS13649][216.24.128.0 - 216.24.159.255]
@@ -46533,7 +46533,7 @@ ff02::3 ip6-allhosts
 # [Virtualxs][AS15535][62.129.128.0 - 62.129.159.255]
 0.0.0.0 banners.payserve.com
 # [Visible Measures][AS14742][64.95.73.0 - 64.95.73.31]
-# 0.0.0.0 cdn.visiblemeasures.com #[affects Collegehumor.com]
+0.0.0.0 cdn.visiblemeasures.com #[affects Collegehumor.com]
 # [Voxel][AS29791][107.6.64.0 - 107.6.127.255]
 # [Voxel][AS29791][208.122.0.0 - 208.122.63.255]
 0.0.0.0 api.adrenalads.com
@@ -46875,7 +46875,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adinterax.com  #[Tracking.Cookie]
 0.0.0.0 www.adinterax.com
 0.0.0.0 np.lexity.com
-# 0.0.0.0 beap.adss.yahoo.com #[affects Yahoo video]
+0.0.0.0 beap.adss.yahoo.com #[affects Yahoo video]
 0.0.0.0 beap.adx.yahoo.com  #[WebBug]
 0.0.0.0 ac.ybinst0.ec.yimg.com
 0.0.0.0 ac.ybinst1.ec.yimg.com
@@ -46898,11 +46898,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 ybinst8.ec.yimg.com
 0.0.0.0 ybinst9.ec.yimg.com
 # [Yandex][AS13238][178.154.131.0 - 178.154.131.255]
-# 0.0.0.0 yastatic.net #[affects Yandex Mail]
+0.0.0.0 yastatic.net #[affects Yandex Mail]
 # [Yandex][AS13238][213.180.193.0 - 213.180.193.255]
 # [Yandex][AS13238][87.250.250.0 - 87.250.250.255]
-# 0.0.0.0 clck.yandex.ru
-# 0.0.0.0 grade.market.yandex.ru
+0.0.0.0 clck.yandex.ru
+0.0.0.0 grade.market.yandex.ru
 # [Yesup][AS22923][199.21.148.0 - 199.21.151.255]
 0.0.0.0 serv.clicksor.net
 0.0.0.0 serw.myroitracking.com
@@ -47272,42 +47272,42 @@ ff02::3 ip6-allhosts
 # may provide you with services you like.
 
 #
-#0.0.0.0 auto.search.msn.com  # Microsoft uses this server to redirect
+0.0.0.0 auto.search.msn.com  # Microsoft uses this server to redirect
                                 # mistyped URLs to search engines. They
                                 # log all such errors.
-#0.0.0.0 sitefinder.verisign.com	# Verisign has joined the game 
-#0.0.0.0 sitefinder-idn.verisign.com	# of trying to hijack mistyped
+0.0.0.0 sitefinder.verisign.com	# Verisign has joined the game 
+0.0.0.0 sitefinder-idn.verisign.com	# of trying to hijack mistyped
 					# URLs to their site. 
 					# May break iOS Game Center.
 
-#0.0.0.0 s0.2mdn.net		# This may interfere with some streaming 
+0.0.0.0 s0.2mdn.net		# This may interfere with some streaming 
 				# video on sites such as cbc.ca
-#0.0.0.0 ad.doubleclick.net   # This may interefere with www.sears.com
+0.0.0.0 ad.doubleclick.net   # This may interefere with www.sears.com
 				# and potentially other sites. 
 0.0.0.0 media.fastclick.net  # Likewise, this may interfere with some
-#0.0.0.0 ebay.doubleclick.net		# may interfere with ebay
-#0.0.0.0 google-analytics.com			# breaks some sites
-#0.0.0.0 ssl.google-analytics.com
-#0.0.0.0 www.google-analytics.l.google.com
-#0.0.0.0 stat.livejournal.com		# There are reports that this may mess 
+0.0.0.0 ebay.doubleclick.net		# may interfere with ebay
+0.0.0.0 google-analytics.com			# breaks some sites
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.l.google.com
+0.0.0.0 stat.livejournal.com		# There are reports that this may mess 
  					# up CSS on livejournal
-#0.0.0.0 stats.surfaid.ihost.com	# This has been known cause 
+0.0.0.0 stats.surfaid.ihost.com	# This has been known cause 
 					# problems with NPR.org
-#0.0.0.0 www.google-analytics.com		# breaks some sites
-#0.0.0.0 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
+0.0.0.0 www.google-analytics.com		# breaks some sites
+0.0.0.0 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
 #
 
-#0.0.0.0 ci-mpsnare.iovation.com	# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
-#0.0.0.0 ll.a.hulu.com	# Uncomment to block Hulu.
-#0.0.0.0 metrics.ticketmaster.com	# interferes with logging in to ticketmaster.com
-#0.0.0.0 nl.sitestat.com	# may interfere with duo.nl
-#0.0.0.0 pro.hit.gemius.pl	# May interfere with some video sites
-#0.0.0.0 services.krxd.net
-#0.0.0.0 stats.channel4.com
-#0.0.0.0 t2.hulu.com		# Uncomment to block Hulu.
-#0.0.0.0 track.hulu.com	# Uncomment to block Hulu.
-#0.0.0.0 webstat.channel4.com
-#0.0.0.0 www.googletagservices.com		#interferes with techrepublic
+0.0.0.0 ci-mpsnare.iovation.com	# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
+0.0.0.0 ll.a.hulu.com	# Uncomment to block Hulu.
+0.0.0.0 metrics.ticketmaster.com	# interferes with logging in to ticketmaster.com
+0.0.0.0 nl.sitestat.com	# may interfere with duo.nl
+0.0.0.0 pro.hit.gemius.pl	# May interfere with some video sites
+0.0.0.0 services.krxd.net
+0.0.0.0 stats.channel4.com
+0.0.0.0 t2.hulu.com		# Uncomment to block Hulu.
+0.0.0.0 track.hulu.com	# Uncomment to block Hulu.
+0.0.0.0 webstat.channel4.com
+0.0.0.0 www.googletagservices.com		#interferes with techrepublic
 0.0.0.0 006.freecounters.co.uk
 0.0.0.0 06272002-dbase.hitcountz.net  # Web bugs in spam
 0.0.0.0 0stats.com
@@ -49817,7 +49817,7 @@ ff02::3 ip6-allhosts
 
 #
 
-#0.0.0.0 pubads.g.doubleclick.net	#interferes with video on cwtv.com
+0.0.0.0 pubads.g.doubleclick.net	#interferes with video on cwtv.com
 0.0.0.0 3ad.doubleclick.net
 0.0.0.0 ad-yt-bfp.doubleclick.net
 0.0.0.0 ad.3au.doubleclick.net
@@ -50143,7 +50143,7 @@ ff02::3 ip6-allhosts
 #
 
 # Red Sheriff and imrworldwide.com  -- server side tracking
-#0.0.0.0 secure-au.imrworldwide.com
+0.0.0.0 secure-au.imrworldwide.com
 0.0.0.0 devfw.imrworldwide.com
 0.0.0.0 fe1-fi.imrworldwide.com
 0.0.0.0 fe1-it.imrworldwide.com
@@ -50233,8 +50233,8 @@ ff02::3 ip6-allhosts
 #<2o7-sites>
 
 # 2o7.net -- server side tracking
-#0.0.0.0 appleglobal.112.2o7.net	#breaks apple.com
-#0.0.0.0 applestoreus.112.2o7.net	#breaks apple.com
+0.0.0.0 appleglobal.112.2o7.net	#breaks apple.com
+0.0.0.0 applestoreus.112.2o7.net	#breaks apple.com
 0.0.0.0 actforvictory.112.2o7.net
 0.0.0.0 adbrite.112.2o7.net
 0.0.0.0 americanbaby.112.2o7.net
@@ -50645,23 +50645,23 @@ ff02::3 ip6-allhosts
 
 #
 #
-#0.0.0.0 adfarm.mediaplex.com		# may interfere with ebay
-#0.0.0.0 ads.msn.com			#This may cause problems with zone.msn.com
-#0.0.0.0 ak.imgfarm.com		# may cause problems with iwon.com
-#0.0.0.0 click.linksynergy.com
-#0.0.0.0 global.msads.net		#This may cause problems with zone.msn.com
-#0.0.0.0 lads.myspace.com		# blocks myspace media/video players
-#0.0.0.0 refer.ccbill.com		#affiliate program, to add it back, remove the #
-#0.0.0.0 rmads.msn.com			#This may cause problems with zone.msn.com
-#0.0.0.0 www.apmebf.com		#qksrv
-#0.0.0.0 www.tkqlhce.com		#qksrv
-#0.0.0.0 ad.ca.doubleclick.net	#intereferes with video on globeandmail.com
-#0.0.0.0 transfer.go.com		#may interfere with Disney websites
+0.0.0.0 adfarm.mediaplex.com		# may interfere with ebay
+0.0.0.0 ads.msn.com			#This may cause problems with zone.msn.com
+0.0.0.0 ak.imgfarm.com		# may cause problems with iwon.com
+0.0.0.0 click.linksynergy.com
+0.0.0.0 global.msads.net		#This may cause problems with zone.msn.com
+0.0.0.0 lads.myspace.com		# blocks myspace media/video players
+0.0.0.0 refer.ccbill.com		#affiliate program, to add it back, remove the #
+0.0.0.0 rmads.msn.com			#This may cause problems with zone.msn.com
+0.0.0.0 www.apmebf.com		#qksrv
+0.0.0.0 www.tkqlhce.com		#qksrv
+0.0.0.0 ad.ca.doubleclick.net	#intereferes with video on globeandmail.com
+0.0.0.0 transfer.go.com		#may interfere with Disney websites
 #
 
 # ads
-#0.0.0.0 aax-eu.amazon-adsystem.com 	# may interfere with Amazon ad preferences
-#0.0.0.0 s.amazon-adsystem.com	# may interfere with Amazon ad preferences
+0.0.0.0 aax-eu.amazon-adsystem.com 	# may interfere with Amazon ad preferences
+0.0.0.0 s.amazon-adsystem.com	# may interfere with Amazon ad preferences
 0.0.0.0 0101011.com
 0.0.0.0 0427d7.se
 0.0.0.0 0d79ed.r.axf8.net
@@ -58058,7 +58058,7 @@ ff02::3 ip6-allhosts
 #
 
 # yahoo banner ads
-#0.0.0.0 us.i1.yimg.com	#Uncomment this to block yahoo images
+0.0.0.0 us.i1.yimg.com	#Uncomment this to block yahoo images
 0.0.0.0 eur.a1.yimg.com
 0.0.0.0 in.yimg.com
 0.0.0.0 sg.yimg.com
@@ -87552,4 +87552,4 @@ ff02::3 ip6-allhosts
 # update process. For example, uncomment the following line to block
 # 'example.com':
 
-# 0.0.0.0 example.com
+0.0.0.0 example.com
